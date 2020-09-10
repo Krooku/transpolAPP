@@ -222,7 +222,7 @@
       <slide>
         <form
           :class="[(page==5) ? activeClass : '', hiddenClass]"
-          @submit.prevent="function(){page=6; rent.planningDate = formatDate(vm.insuranceCosts.maxRentDays)}"
+          @submit.prevent="page=6"
         >
           <h3 class="title">
             Koszty, których pokrycie gwarantowane jest przez zleceniodawcę.
