@@ -1,0 +1,6 @@
+module.exports.User = require('./User')
+module.exports.Car = require('./Car')
+module.exports.CarCosts = require('./CarCosts')
+module.exports.Blog = require('./Blog')
+module.exports.ImagePost = require('./ImagePost')
+module.exports.Errand = require('./Errand')

@@ -1,0 +1,3 @@
+do wypozyczenia samochodu aplikacją wypelniamy formularz z danymi klienta 
+i wypożyczenego samochodu po czym drukujemy z aplikacji uzupełnioną umowę
+najmu
